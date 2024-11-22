@@ -2,13 +2,15 @@
 import Navbar from "../components/Navbar";
 //import Home from "../components/Home";
 import MyFooter from "../components/Footer";
+import "../main/App.css";
+
 
 function App() {
   return (
    <div>
     <Navbar />
-    <header className="App-header">
-      <p> Welcome to JuvoU </p>
+    <header className="header">
+      <h1 className="welcome"> Welcome to JuvoU </h1>
     </header>
     <MyFooter />
    </div>
