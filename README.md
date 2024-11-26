@@ -1,6 +1,6 @@
 # JuvoU
 
-Getting Started with A Delay Project.
+Getting Started with a much **Delayed** Project.
 
 
 This project was bootstrapped with Create React App. 
