@@ -1,17 +1,16 @@
 
 import Navbar from "../components/Navbar";
-//import Home from "../components/Home";
+import Home from "../components/Home";
 import MyFooter from "../components/Footer";
-import "../main/App.css";
-
 
 function App() {
   return (
    <div>
     <Navbar />
-    <header className="header">
+    <Home />
+    {/* <header className="header">
       <h1 className="welcome"> Welcome to JuvoU </h1>
-    </header>
+    </header> */}
     <MyFooter />
    </div>
   );
